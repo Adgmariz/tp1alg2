@@ -1,4 +1,4 @@
-Age, Year, Positive, Survival
+Age, Year, PositiveNodes, Survival
 38, 59, 2, negative
 39, 63, 4, negative
 49, 62, 1, negative
